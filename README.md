@@ -11,8 +11,8 @@
 | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [**Singleton**](FactoryMethod)        | Ensures a class has only one instance and provides a global point of access.                                     |
 | [**Factory Method**](Singelton)   | Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created. |
-| **Abstract Factory** | Provides an interface for creating families of related or dependent objects.                                     |
-| **Builder**          | Separates the construction of a complex object from its representation.                                          |
+| [**Abstract Factory**](...) | Provides an interface for creating families of related or dependent objects.                                     |
+| [**Builder**](Builder)          | Separates the construction of a complex object from its representation.                                          |
 | **Prototype**        | Creates new objects by copying an existing object (prototype).                                                   |
 
 ## 02. Structural Patterns
