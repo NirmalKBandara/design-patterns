@@ -21,8 +21,8 @@
 
 | Pattern       | Purpose                                                                        |
 | ------------- | ------------------------------------------------------------------------------ |
-| **Adapter**   | Converts one interface to another the client expects.                          |
-| **Bridge**    | Decouples abstraction from its implementation.                                 |
+| [**Adapter**](Adapter)   | Converts one interface to another the client expects.                          |
+| [**Bridge**](Bridge)    | Decouples abstraction from its implementation.                                 |
 | **Composite** | Treats individual objects and compositions of objects uniformly.               |
 | **Decorator** | Adds responsibilities to objects dynamically.                                  |
 | **Facade**    | Provides a simplified interface to a larger body of code.                      |
