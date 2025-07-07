@@ -25,9 +25,9 @@
 | [**Bridge**](Bridge)    | Decouples abstraction from its implementation.                                 |
 | [**Composite**](Composite) | Treats individual objects and compositions of objects uniformly.               |
 | [**Decorator**](Decorator) | Adds responsibilities to objects dynamically.                                  |
-| **Facade**    | Provides a simplified interface to a larger body of code.                      |
+| [**Facade**](Facade)    | Provides a simplified interface to a larger body of code.                      |
 | **Flyweight** | Reduces memory usage by sharing as much data as possible with similar objects. |
-| **Proxy**     | Provides a surrogate or placeholder for another object.                        |
+| [**Proxy**](Proxy)     | Provides a surrogate or placeholder for another object.                        |
 
 
 ## 03. Behavioral Patterns
